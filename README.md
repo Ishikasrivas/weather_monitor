@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Monitoring Application
 
 ## Objective
@@ -13,3 +14,6 @@ Develop a real-time data processing system to monitor weather conditions and pro
 3. Create a virtual environment:
    ```bash
    python -m venv venv
+=======
+# weather_monitor
+>>>>>>> origin/master
